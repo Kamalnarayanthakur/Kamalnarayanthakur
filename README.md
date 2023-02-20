@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kamalnarayanthakur
-- 👀 I’m interested in java..
-- 🌱 I’m currently learning languages..
+- 👀 I’m an Data Engineer.
+- 🌱 I’m having fun with data and formulas...
 - 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me at kamal130thakur@gmail.com..
 
